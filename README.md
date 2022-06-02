@@ -42,7 +42,7 @@ Getting the data:
 One can use wget or access the URL in any browser, e.g. Mozilla Firefox or Google Chrome.
 - The namelist file is downloaded with this link: wget https://irods-web.zdv.uni-mainz.de/irods-rest/rest/fileContents/zdv/project/m2_jgu-w2w/w2w-a1/EG_HT_2022_squall_line_var/namelist.input?ticket=tfKfvC272uyo1WC
 - The README file (this file!) is downloaded with this link: wget https://irods-web.zdv.uni-mainz.de/irods-rest/rest/fileContents/zdv/project/m2_jgu-w2w/w2w-a1/EG_HT_2022_squall_line_var/README.txt?ticket=tfKfvC272uyo1WC
-- The output of ensemble member <m> (1-9) is downloaded with the following link (any output time <n> on the inclusive interval 00-24): wget https://irods-web.zdv.uni-mainz.de/irods-rest/rest/fileContents/zdv/project/m2_jgu-w2w/w2w-a1/EG_HT_2022_squall_line_var/ENS_0<m>/ENS_0<m>_T<n>.nc?ticket=tfKfvC272uyo1WC
+- The output of ensemble member [m] (1-9) is downloaded with the following link (any output time [n] on the inclusive interval 00-24): wget https://irods-web.zdv.uni-mainz.de/irods-rest/rest/fileContents/zdv/project/m2_jgu-w2w/w2w-a1/EG_HT_2022_squall_line_var/ENS_0[m]/ENS_0[m]_T[n].nc?ticket=tfKfvC272uyo1WC
 
 For the control, replace "ENS_0<m>" by control_ref_200m.
 
@@ -51,10 +51,10 @@ For the control, replace "ENS_0<m>" by control_ref_200m.
 
 More extensive list of examples:
 - The output of the control run is downloaded with the following link (initial conditions): wget https://irods-web.zdv.uni-mainz.de/irods-rest/rest/fileContents/zdv/project/m2_jgu-w2w/w2w-a1/EG_HT_2022_squall_line_var/control_ref_200m/control_ref_200m_T00.nc?ticket=tfKfvC272uyo1WC
-- The output of the control run is downloaded with the following link (any output time <n> on the inclusive interval 00-24): wget https://irods-web.zdv.uni-mainz.de/irods-rest/rest/fileContents/zdv/project/m2_jgu-w2w/w2w-a1/EG_HT_2022_squall_line_var/control_ref_200m/control_ref_200m_T<n>.nc?ticket=tfKfvC272uyo1WC
+- The output of the control run is downloaded with the following link (any output time[n] on the inclusive interval 00-24): wget https://irods-web.zdv.uni-mainz.de/irods-rest/rest/fileContents/zdv/project/m2_jgu-w2w/w2w-a1/EG_HT_2022_squall_line_var/control_ref_200m/control_ref_200m_T[n].nc?ticket=tfKfvC272uyo1WC
 - The output of ENS_01 is downloaded with the following link (initial conditions): wget https://irods-web.zdv.uni-mainz.de/irods-rest/rest/fileContents/zdv/project/m2_jgu-w2w/w2w-a1/EG_HT_2022_squall_line_var/ENS_01/ENS_01_T00.nc?ticket=tfKfvC272uyo1WC
-- The output of ENS_01 is downloaded with the following link (any output time <n> on the inclusive interval 00-24): wget https://irods-web.zdv.uni-mainz.de/irods-rest/rest/fileContents/zdv/project/m2_jgu-w2w/w2w-a1/EG_HT_2022_squall_line_var/ENS_01/ENS_01_T<n>.nc?ticket=tfKfvC272uyo1WC
-- The output of ensemble member <m> (1-9) is downloaded with the following link (initial conditions): wget https://irods-web.zdv.uni-mainz.de/irods-rest/rest/fileContents/zdv/project/m2_jgu-w2w/w2w-a1/EG_HT_2022_squall_line_var/ENS_0<m>/ENS_0<m>_T00.nc?ticket=tfKfvC272uyo1WC
+- The output of ENS_01 is downloaded with the following link (any output time [n] on the inclusive interval 00-24): wget https://irods-web.zdv.uni-mainz.de/irods-rest/rest/fileContents/zdv/project/m2_jgu-w2w/w2w-a1/EG_HT_2022_squall_line_var/ENS_01/ENS_01_T[n].nc?ticket=tfKfvC272uyo1WC
+- The output of ensemble member [m] (1-9) is downloaded with the following link (initial conditions): wget https://irods-web.zdv.uni-mainz.de/irods-rest/rest/fileContents/zdv/project/m2_jgu-w2w/w2w-a1/EG_HT_2022_squall_line_var/ENS_0[m]/ENS_0[m]_T00.nc?ticket=tfKfvC272uyo1WC
 
 
 
