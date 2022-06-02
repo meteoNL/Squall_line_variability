@@ -69,4 +69,4 @@ The wind profile depth (in meters) used to produce the ensemble was the followin
 
 
 
-For questions: reach out to egroot@uni-mainz.de; (and if not possible) tosth@uni-mainz.de 
+For questions: reach out to egroot[at]uni-mainz.de; (and if not possible) tosth[at]uni-mainz.de 
