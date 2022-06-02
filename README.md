@@ -15,6 +15,7 @@ A namelist file with the settings to produce the output of the control simulatio
 
 
 Script lines for a download.sh script to get ALL the data (about 900 GB!):
+
 ########## Beginning of example script ##########
 
 
